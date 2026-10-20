@@ -1819,7 +1819,7 @@ const PALETTE_GRUBER_DARKER: Palette = Palette {
     text: Color::Rgb(228, 228, 239),
     text_bright: Color::Rgb(244, 244, 255),
     amber: Color::Rgb(255, 221, 51),
-    amber_dim: Color::Rgb(204, 140, 60),
+    amber_dim: Color::Rgb(115, 201, 54),
     amber_glow: Color::Rgb(245, 245, 245),
     chat_body: Color::Rgb(228, 228, 239),
     chat_author: Color::Rgb(150, 166, 200),
@@ -1831,7 +1831,7 @@ const PALETTE_GRUBER_DARKER: Palette = Palette {
     bonsai_leaf: Color::Rgb(115, 201, 54),
     bonsai_canopy: Color::Rgb(115, 201, 54),
     bonsai_bloom: Color::Rgb(158, 149, 199),
-    badge_bronze: Color::Rgb(204, 140, 60),
+    badge_bronze: Color::Rgb(115, 201, 54),
     badge_silver: Color::Rgb(228, 228, 239),
     badge_gold: Color::Rgb(255, 221, 51),
 };
